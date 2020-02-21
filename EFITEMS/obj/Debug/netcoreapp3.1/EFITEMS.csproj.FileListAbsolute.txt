@@ -1,0 +1,9 @@
+D:\swathi\EntityFrame\EFITEMS\bin\Debug\netcoreapp3.1\EFITEMS.deps.json
+D:\swathi\EntityFrame\EFITEMS\bin\Debug\netcoreapp3.1\EFITEMS.dll
+D:\swathi\EntityFrame\EFITEMS\obj\Debug\netcoreapp3.1\EFITEMS.AssemblyInfoInputs.cache
+D:\swathi\EntityFrame\EFITEMS\obj\Debug\netcoreapp3.1\EFITEMS.AssemblyInfo.cs
+D:\swathi\EntityFrame\EFITEMS\bin\Debug\netcoreapp3.1\EFITEMS.runtimeconfig.json
+D:\swathi\EntityFrame\EFITEMS\bin\Debug\netcoreapp3.1\EFITEMS.runtimeconfig.dev.json
+D:\swathi\EntityFrame\EFITEMS\bin\Debug\netcoreapp3.1\EFITEMS.pdb
+D:\swathi\EntityFrame\EFITEMS\obj\Debug\netcoreapp3.1\EFITEMS.dll
+D:\swathi\EntityFrame\EFITEMS\obj\Debug\netcoreapp3.1\EFITEMS.pdb

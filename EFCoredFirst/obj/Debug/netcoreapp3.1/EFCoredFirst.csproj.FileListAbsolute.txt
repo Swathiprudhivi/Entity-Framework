@@ -1,0 +1,10 @@
+D:\swathi\EntityFrame\EFCoredFirst\bin\Debug\netcoreapp3.1\EFCoredFirst.deps.json
+D:\swathi\EntityFrame\EFCoredFirst\bin\Debug\netcoreapp3.1\EFCoredFirst.dll
+D:\swathi\EntityFrame\EFCoredFirst\obj\Debug\netcoreapp3.1\EFCoredFirst.csprojAssemblyReference.cache
+D:\swathi\EntityFrame\EFCoredFirst\obj\Debug\netcoreapp3.1\EFCoredFirst.AssemblyInfoInputs.cache
+D:\swathi\EntityFrame\EFCoredFirst\obj\Debug\netcoreapp3.1\EFCoredFirst.AssemblyInfo.cs
+D:\swathi\EntityFrame\EFCoredFirst\bin\Debug\netcoreapp3.1\EFCoredFirst.runtimeconfig.json
+D:\swathi\EntityFrame\EFCoredFirst\bin\Debug\netcoreapp3.1\EFCoredFirst.runtimeconfig.dev.json
+D:\swathi\EntityFrame\EFCoredFirst\bin\Debug\netcoreapp3.1\EFCoredFirst.pdb
+D:\swathi\EntityFrame\EFCoredFirst\obj\Debug\netcoreapp3.1\EFCoredFirst.dll
+D:\swathi\EntityFrame\EFCoredFirst\obj\Debug\netcoreapp3.1\EFCoredFirst.pdb
